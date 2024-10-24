@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ganpat Choudhary</h1>
 <h3 align="center">Detail-oriented Data Analyst with expertise in Power BI, SQL, and Excel, leveraging 2+ years of experience in data visualization, survey programming, and data analysis at Merkle Inc.</h3>
 
-- 👨‍💻 All of my projects are available at <b><a href="datascienceportfol.io/ganpatsirvi100" target="blank"> My Portfolio</a></b>
+- 👨‍💻 All of my projects are available at <b><a href="https://www.datascienceportfol.io/ganpatsirvi100" target="blank"> My Portfolio</a></b>
 
 - 📫 How to reach me **ganpatsirvi100@gmail.com**
 
