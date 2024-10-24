@@ -1,13 +1,16 @@
 <h1 align="center">Hi 👋, I'm Ganpat Choudhary</h1>
 <h3 align="center">Detail-oriented Data Analyst with expertise in Power BI, SQL, and Excel, leveraging 2+ years of experience in data visualization, survey programming, and data analysis at Merkle Inc.</h3>
 
-- 👨‍💻 All of my projects are available at [datascienceportfol.io/ganpatsirvi100](datascienceportfol.io/ganpatsirvi100)
+- 👨‍💻 All of my projects are available at [My Portfolio](datascienceportfol.io/ganpatsirvi100)
 
 - 📫 How to reach me **ganpatsirvi100@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ganpat-choudhary-b25072207/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ganpat choudhary" height="30" width="40" /></a>
+<p align="left">
+<a href="https://twitter.com/ganpat choudhary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ganpat choudhary" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ganpat_v_sirvi?igsh=aDE1cnpjbnV1OGxt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anpat choudhary" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
